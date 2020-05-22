@@ -10,7 +10,7 @@ WHERE name != "Kevin Bacon" AND movies.id IN(
     WHERE (people.name = "Kevin Bacon" AND people.birth = 1958)
 )
 
-/////////////////
+-- ALTERNATE SOLUTION
 SELECT name  --Get name where the id is equal to the id in stars in the next step
 FROM people
 WHERE name != "Kevin Bacon" AND id IN (
