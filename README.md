@@ -23,7 +23,7 @@ speller.c (Check Spell-Checker Repository) - https://cs50.harvard.edu/x/2020/pse
 # Problem Set 6 (Python)
 hello.py - https://cs50.harvard.edu/x/2020/psets/6/hello/ <br />
 mario.py - https://cs50.harvard.edu/x/2020/psets/6/mario/more/ <br />
-credit.py - https://cs50.harvard.edu/x/2020/psets/6/ <br />
+credit.py - https://cs50.harvard.edu/x/2020/psets/6/credit/ <br />
 readability.py - https://cs50.harvard.edu/x/2020/psets/6/readability/ <br />
 dna.py - https://cs50.harvard.edu/x/2020/psets/6/dna/ <br />
 
